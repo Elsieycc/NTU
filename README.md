@@ -1,2 +1,2 @@
 # NTU
-NTU-cop
+NTU-cpp homework
